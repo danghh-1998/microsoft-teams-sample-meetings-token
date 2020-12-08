@@ -1,7 +1,3 @@
-// <copyright file="UserInfo.cs" company="Microsoft">
-// Copyright (c) Microsoft. All rights reserved.
-// </copyright>
-
 namespace TokenApp.Models
 {
     /// <summary>
