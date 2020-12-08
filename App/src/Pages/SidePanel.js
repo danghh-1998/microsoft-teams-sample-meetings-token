@@ -10,7 +10,7 @@ import { withMeetingTokenService } from '../Context/MeetingServiceProvider';
 import StatusRefresher from '../Components/StatusRefresher';
 import Constants from '../Constants';
 
-// this class is for side panels components
+
 class SidePanel extends Component {
     constructor(props) {
         super(props);
