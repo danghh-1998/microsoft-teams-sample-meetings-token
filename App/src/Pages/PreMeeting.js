@@ -32,9 +32,6 @@ class PreMeeting extends Component {
         return (
             <div className="app-container" >
                 <StatusRefresher onStatusRefresh={this.onStatusRefresh} />
-                <TokenIndicator show={true} value={this.state.currentToken} title={"Current Token"} />
-                <TokenIndicator show={true} value={this.state.maxTokenIssued} title={"Max Token Issued"} />
-                <TokenIndicator show={true} value={this.state.participantCount} title={"Queue Length"} />
             </div>
         );
     }
