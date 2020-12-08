@@ -18,3 +18,4 @@ class ErrorMessageBar extends Component {
 
 export default withMeetingTokenService(ErrorMessageBar);
 //bonjour
+//comment ca va?
