@@ -16,3 +16,4 @@ export default class StatusRefresh{
         clearInterval(this.cancelToken)
     }
 }
+//hello
