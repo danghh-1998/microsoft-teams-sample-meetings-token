@@ -28,9 +28,6 @@ class SurfaceSelector extends Component {
             case SidePanel:
                 return <SidePanelPage />
 
-            case PreMeeting:
-                return <PreMeetingPage onError={msg => this.setState({ error: { status: true, msg } })} />
-
             default:
                 return null;
         }
