@@ -4,6 +4,7 @@ import { withMeetingTokenService } from '../Context/MeetingServiceProvider';
 import TokenIndicator from "../Components/TokenIndicator";
 import StatusRefresher from "../Components/StatusRefresher";
 
+//this class is for component premeeting
 class PreMeeting extends Component {
     constructor(props) {
         super(props);
