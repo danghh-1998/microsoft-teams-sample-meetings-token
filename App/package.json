@@ -16,6 +16,7 @@
     "@microsoft/teams-js": "^1.7.0",
     "axios": "^0.20.0",
     "css-loader": "^4.2.2",
+    "eslint": "^7.15.0",
     "file-loader": "^6.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
