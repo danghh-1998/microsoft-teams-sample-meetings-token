@@ -4,6 +4,7 @@ import SurfaceSelector from './SurfaceSelector';
 import MeetingServiceProvider from '../Context/MeetingServiceProvider';
 import TeamsContextProvider from '../Context/TeamsContextProvider';
 
+//this is component meeting token app
 class MeetingTokenApp extends Component {
     constructor(props) {
         super(props);
